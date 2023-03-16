@@ -1,2 +1,2 @@
 token=your_token
-folder=/your_folder
+folder=your_folder
