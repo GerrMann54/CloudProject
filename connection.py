@@ -16,7 +16,7 @@ class Connection():
             self.disk = yadisk.YaDisk(token=user_token)
             print("Token:", self.disk.check_token())
         except:
-            print("Unable to connect to YaDisc")
+            print("Unable to connect to YaDisk")
             self.successfully = False
 
         try:
