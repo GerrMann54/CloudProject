@@ -206,7 +206,7 @@ class Manager():
                 self.mkdir(dirname)
 
             elif self.act == 'rem': 
-                dirnum = int(input('Directory to remove >'))
+                dirnum = int(input('Item to remove >'))
                 self.remdir(dirnum)
 
             elif self.act == 'cd':
