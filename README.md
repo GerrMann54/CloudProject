@@ -8,19 +8,19 @@
 
 Работа с программой
 - введите команду "help" для получения списка команд;
-- в программе реализован простейший файловый менеджер, управляющия Яндекс Диском и позволяющий: создавать, удалять папки и файлы, изменять рабочую папку;
+- в программе реализован простейший файловый менеджер, управляющиq Яндекс Диском и позволяющий: создавать, удалять папки и файлы, изменять рабочую папку;
 - выбрав нужную папку, начните проект с помощью соответвующей команды;
 - название проекта всегда начинается с "project_", эта приставка будет добавлена автоматически;
 - так же, с помощю команды, разверните этот проект на своём компьютере в указанном вами месте, после этого проект станет активным;
 - у активного проекта собственный список команд, так же работает команда "help";
 - активный проект скачается в следующий путь "указанная_папка/название_проекта";
-- если этот путь уже существует, то он сам и всё, что внутри, будет перезаписано;
+- если этот путь уже существует, то он сам и всё, что внутри, будет перезаписано. Развёртывание проекта на вашем ПК происходит путём разархивирования;
 - в скачанной папке с названием проекта вы можете добавлять, удалять, изменять файлы и папки, т.е. осуществлять работу с проектом;
 - когда вы сохраните проект с помощью соответствующей команды, он будет сохранён на Яндекс Диск в том виде, в котором находится у вас на компьютере.
 
 ВАЖНО! 
 - не закрыввайте программу во время работы с проектом;
-- не работайте с одним проектом одновременно с помощью этой программы и без неё.
+- не рекомендуется работать с одним проектом одновременно с помощью этой программы и без неё.
 
 
 
@@ -41,10 +41,10 @@ Working with the program
 - also, with the help of the command, deploy this project on your computer in the place you specified, after that the project will become active;
 - the active project has its own list of commands, the "help" command also works;
 - the active project is downloaded to the following path "specified folder/project name";
-- if this path already exists, then it and everything inside will be overwritten;
+- if this path already exists, then it and everything inside will be overwritten. The project is deployed on your PC by unzipping;
 - in the downloaded folder with the project name, you can add, delete, change files and folders, i.e. work with the project;
 - when you save the project using the appropriate command, it will be saved to Yandex Disk in the form in which it is located on your computer.
 
 IMPORTANT!
 - do not close the program while working with the project;
-- do not work with one project at the same time using this program and without it.
+- it is not recommended to work with one project at the same time using this program and without it.
